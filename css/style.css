@@ -1,0 +1,187 @@
+
+/**section1**/
+.navbar-brand{
+  font-family: 'Style Script', cursive;
+  font-size: 80px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+.imgpart1{
+  height: 40rem;
+  margin: 0;
+  width: 100%;
+}
+.mountian1{
+  position: relative;
+ text-align: center;
+ color: black;
+}
+.text1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+.text11{
+  font-family: sans-serif;
+  font-size: 5rem ;
+}
+/**section2**/
+#Mountainview{
+  padding: 8%
+}
+.imgview1{
+position: absolute;
+ top:710px;
+ left:160px;
+
+}
+.imgview11{
+  height: 430px;
+  width: 400px;
+}
+.pink{
+  background-color: #ff4c68;
+  display: block;
+  position: relative;
+  height: 300px;
+  width: 500px;
+}
+
+.imgview2{
+
+  height: 250px;
+  width: 250px;
+}
+.viewtext{
+  position: absolute;
+  top:730px;
+  left:130px;
+  font-family: 'Style Script', cursive;
+  font-size: 100px;
+  transform: rotate(-45deg);
+  color: #ff4c68;
+}
+.imgview22{
+    position: absolute;
+    left:400px;
+    top: 900px;
+}
+.view3{
+  color: #ff4c68;
+  text-align: center;
+  padding-bottom:  5%;
+  font-size: 60px;
+}
+.view4{
+  padding-bottom:  5%;
+}
+
+.view2{
+    padding-top:30px;
+}
+.button{
+  text-align: center;
+}
+/**section3**/
+.kingtriph1{
+  text-align: center;
+  color: #ff4c68;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 100px;
+  transform: scaleY(1);
+}
+.kingtriph2{
+    text-align: center;
+    font-family: 'Style Script', cursive;
+    font-size: 30px;
+    transform: scaleX(6);
+    transform: scaleY(5);
+
+
+
+}
+.kingtripp{
+  text-align: center;
+  font-family: sans-serif;
+  padding: 5% 20%;
+}
+.button {
+  border-radius: 70px;
+  text-align: center;
+  color: white;
+  background-color: #ff4c68;
+  font-size: 25px;
+  padding: 10px 50px;
+}
+/**SECTION 4***/
+#HIKE{
+  padding-top: 2%;
+}
+.text22{
+  color: white;
+  font-family: sans-serif;
+  font-size: 5rem ;
+}
+.text222{
+  color: grey;
+  font-family: sans-serif;
+}
+/*****section 5*****/
+#cards{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: white;
+  font-size: 4em;
+  text-align: center;
+  background-color: #ff4c68;
+}
+/******section 6******/
+.imgtravel1{
+  position: absolute;
+  display: block;
+  bottom:-80px;
+  right: 30px;
+
+}
+.imgtravel2{
+
+  position: absolute;
+  display: block;
+  left: -20px;
+  bottom:-100px;
+
+
+}
+.traveltext{
+  position: absolute;
+  display: block;
+  left: 200px;
+  font-family: 'Style Script', cursive;
+}
+.travelmedia{
+  padding-top:30px;
+}
+/****** footer*****/
+.social-icon {
+  margin: 20px 10px;
+}
+.white-section{
+  padding-top: 20%;
+  text-align: center;
+}
+
+@media  (max-width:1300px) {
+  .view2{
+    margin-left: 50px;
+    padding-top: 160px;
+  }
+  .travelmedia{
+    margin-right: 50px;
+    padding-bottom: 160px;
+  }
+}
